@@ -1,8 +1,8 @@
-# описание
-1. выключить анти вирус
-2. обновить драйвера на последнюю верссию
-3. руки не из жопы
-4. Установка скачать и открыть и установить 
-5. после того запустить видео радактор и потом нажать кнопку сделать проэкт
-6. загружаете видео 
-7. сам Видео редактор он по себе не отличаеться от платный видео редакторов.
+# description
+1. Turn off the anti-virus
+2. Update the drivers to the latest version
+3. hands are not out of the ass
+4. Installation download and open and install 
+5. after that, launch the video editor and then click the make project button
+6. Upload a video 
+7. The video editor itself is no different from the paid video edi
